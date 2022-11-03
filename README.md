@@ -46,12 +46,19 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 6.update the DH parameters of the link configuration and end effector configuration.
 
 ### SIMULATION 
-
+#### 6 DOF
  ![image](https://user-images.githubusercontent.com/75235167/199652215-9f09686d-f26d-4311-a244-063763bea834.png)
  
- ### PLOT 
+#### 4 DOF
+ ![image](https://user-images.githubusercontent.com/75235167/199652531-e6c57732-f6e7-4435-b4c1-ef6ed72ce04e.png)
+
  
+ ### PLOT 
+ #### 6 DOF
  ![image](https://user-images.githubusercontent.com/75235167/199652288-2cb387dd-449f-4eed-a8ae-b1f4371478b6.png)
+ 
+ #### 4 DOF
+ ![image](https://user-images.githubusercontent.com/75235167/199652641-66973fc8-2590-4a37-b423-efd5fbfec58b.png)
 
 ### RESULTS :  
 Thus, the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer is analysed and the graph for link cordinates and joint angles is plotted.
